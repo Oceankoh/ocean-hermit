@@ -1,20 +1,11 @@
-# hermit-V2 -: The Minimal Hugo Theme
+# Ocean Hermit
 
 > OG : [Hermit Theme](https://github.com/Track3/hermit) by [Track3](https://github.com/Track3)
+> Continued by: [Hermit-V2 Theme](https://github.com/1bl4z3r/hermit-V2) by [1bl4z3r](https://github.com/1bl4z3r)
 
-Hermit-V2 is a minimal and fast theme for Hugo, built for bloggers who want a simple and focused website. This is a maintained fork of [Hermit](https://github.com/Track3/hermit), which iterates over the original work to have a almost-stable experience with bug fixes and new features.
+Ocean Hermit is a minimal and fast theme for Hugo, built for bloggers who want a simple and focused website. This is a fork of [Hermit-V2](https://github.com/1bl4z3r/hermit-V2) to include some additional features and customizations.
 
 ![](https://github.com/1bl4z3r/hermit-V2/blob/main/images/screenshot.png)
-
-### History
-
-When I had switched from jekyll to Hugo, I was in a need of a theme. I was enthralled by this very theme and I am using it since in my own personal blog. However, it looks like [OP]((https://github.com/Track3)) has stopped maintaining this theme and as a result, it is riddled with bugs and code breaks. Hence, I have taken upon myself to maintain this theme. Intention of this project is to keep the essence of the theme as-it-is and only add minor updates and squash bugs which may arise.
-
-> GoHugo Theme Page : [https://themes.gohugo.io/themes/hermit-v2/](https://themes.gohugo.io/themes/hermit-v2/)
-
-## Demo
-
-Demo page [https://1bl4z3r.github.io/hermit-V2](https://1bl4z3r.github.io/hermit-V2), which is both demo as well as documentation for the theme, is located in [Staging Branch](https://github.com/1bl4z3r/hermit-V2/tree/staging)
 
 ## Configuration Guide
 
@@ -25,13 +16,13 @@ Configuration Guide is present in [Explaining Configs](https://1bl4z3r.github.io
 Run this command from the root of your Hugo directory:
 
 ```bash
-git clone https://github.com/1bl4z3r/hermit-V2 themes/hermit-v2
+git clone https://github.com/Oceankoh/ocean-hermit themes/ocean-hermit
 ```
 
 Or, if your Hugo site is already in git, you can include this repository as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules). This makes it easier to update this theme. For this you need to run:
 
 ```bash
-git submodule add -b main https://github.com/1bl4z3r/hermit-V2 themes/hermit-v2
+git submodule add -b main https://github.com/Oceankoh/ocean-hermit themes/ocean-hermit
 ```
 
 To update submodule and to have latest version of the theme with your project, run
